@@ -6,3 +6,5 @@ print(5-6)
 print("hersey yolunda gibi")
 
 print("bazi seyler degisti gibi ama anlamadim")
+
+print("suan az da olsa nasil yapacagimi anladim gibi ama biraz olsun kullanmam gerek")
