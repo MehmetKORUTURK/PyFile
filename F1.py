@@ -13,3 +13,6 @@ print("az once geri almayi ogrendim simdi farkli seyler denemek istyorum")
 
 print("herseyi deniyotum fakat biraz karisik geldi")
 
+print("suan vs code nasil calistigini anladim gibi biraz gec oldu ama sonunda cozdum gibi")
+
+
