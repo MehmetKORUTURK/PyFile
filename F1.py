@@ -17,3 +17,5 @@ print("herseyi deniyotum fakat biraz karisik geldi")
 print("suan vs code nasil calistigini anladim gibi biraz gec oldu ama sonunda cozdum gibi")
 
 
+print("suan version iki icindeki denemeleri yapiyorum")
+
