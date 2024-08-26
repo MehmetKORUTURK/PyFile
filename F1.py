@@ -8,3 +8,5 @@ print("hersey yolunda gibi")
 print("bazi seyler degisti gibi ama anlamadim")
 
 print("suan az da olsa nasil yapacagimi anladim gibi ama biraz olsun kullanmam gerek")
+
+print("az once geri almayi ogrendim simdi farkli seyler denemek istyorum")
